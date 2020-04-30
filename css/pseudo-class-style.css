@@ -1,0 +1,17 @@
+a:visited {
+    color: black;
+    font-family: arial,sans-serif;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+button:hover {
+    border: 1px solid #aaaaaa;
+}
+
+.search-box:hover {
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+

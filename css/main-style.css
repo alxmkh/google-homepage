@@ -1,0 +1,31 @@
+.div-center {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.logo-box {
+    flex: 1 0px;
+    background-color: white hsl(0,0,100);
+    text-align: center;
+    padding-top: 10%;
+  
+}
+
+.search-box {
+    flex: 0 49px;
+    background-color: azure;
+    background: #fff;
+    display: flex;
+    border: 1px solid #999;
+    box-shadow: none;
+    border-radius: 24px;
+    margin: 0 auto;
+}
+
+.service-box {
+    flex: 3 100px;
+    background-color: white hsl(0,0,100);
+    flex-direction: column;
+    display: flex;
+}

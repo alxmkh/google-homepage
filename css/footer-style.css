@@ -1,0 +1,41 @@
+.country-span {
+    font-size: 15px;
+    color: rgba(0,0,0,.54);
+    padding-left: 3%;
+    font-family:arial, sans-serif;
+  }
+
+.right-footer-table {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    padding-right: 40px;
+    padding-left: 30px;
+    padding-top: 0px;
+    font-size: 15px;
+    font-family:arial, sans-serif;
+    
+    
+  }
+  
+  .right-footer-table-li {
+    float: right;
+    
+  }
+
+  .left-footer-table-li {
+      float: left;
+  }
+  
+  li a {
+    display: block;
+    text-align: center;
+    padding: 14px 8px;
+    text-decoration: none;
+    color: #5f6368;
+  }
+
+  .li-padding-header-alphabet {
+    padding: 6px;
+  }

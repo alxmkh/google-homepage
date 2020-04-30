@@ -1,0 +1,44 @@
+.textarea-search{
+    resize: none;
+    outline:none;
+    border: none;
+    font: 16px arial,sans-serif;
+    margin-top: 13px;
+}
+
+.search-form {
+    height: 44px;
+    outline:none; 
+    padding-top: 4px;
+}
+
+.item_1 {
+    flex: 1;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    margin: 10px;
+    padding-top: 4px;
+}
+
+.item_2 {
+    flex: 2;
+}
+
+.item_3 {
+    flex: 3;
+    width: 24px;
+    height: 24px;
+    text-align: center;
+    margin: 10px;
+    padding-top: 4px;
+}
+
+.item_4 {
+    flex: 3;
+    width: 24px;
+    height: 24px;
+    text-align: center;
+    margin: 10px;
+    padding-top: 4px;
+}

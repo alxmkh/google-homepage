@@ -1,0 +1,25 @@
+.right-header-table-ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    padding-right: 30px;
+    padding-top: 10px;
+    
+  }
+  
+  .right-header-table-li {
+    float: right;
+    
+  }
+  
+  li a {
+    display: block;
+    text-align: center;
+    padding: 14px 8px;
+    text-decoration: none;
+  }
+
+  .li-padding-header-alphabet {
+    padding: 6px;
+  }
